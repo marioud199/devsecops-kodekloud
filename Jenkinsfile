@@ -279,7 +279,7 @@ pipeline {
 		   //    sendNotification currentBuild.result
 		   //  }	
 	    // }
-    // }
-  }
+    	 }
+  
 }
 }
